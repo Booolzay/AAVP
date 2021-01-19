@@ -1,0 +1,3 @@
+Audio filter with a maxi envelop that is triggered when "Space" bar is pressed and held
+Makes an interesting hiccup type noise
+Please use re run with headphones is=f there is no audio in speakers

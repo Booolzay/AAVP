@@ -1,0 +1,2 @@
+This project is and audio synthesizer with added Frequency modulation when mouse moved on the X axis
+and Amplitude modulation when mouse moved on the Y axis

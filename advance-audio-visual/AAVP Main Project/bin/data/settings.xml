@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<group>
+	<enable_smothed_volume>1</enable_smothed_volume>
+	<minTreshold>0.1</minTreshold>
+	<smoothed_value>0.99</smoothed_value>
+	<radius>800</radius>
+</group>
