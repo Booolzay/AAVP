@@ -7,3 +7,7 @@ d.CW 4 =  Mouse interactable shader;
 
 2.Uploaded Main Project
 #.Audio Visualisation with beat detection and shader manipulation
+
+***TO VIEW PROJECTS*** 
+Open a new Open frameworks Project and replace src folders and 
+bin folders(when available) and restart the project.
